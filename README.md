@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José Carlos.
-- 👀 I’m interested in the Linux and its OS system administration troubleshooting.
+- 👀 I’m interested in the Linux and its OS system administration and troubleshooting.
 - 🌱 I’m currently learning new Web front-end technologies and some CMS development, like Drupal modules.
 - 💞️ I’m looking to collaborate on Linux infrastructure and administration projects.
 
