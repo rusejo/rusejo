@@ -1,8 +1,7 @@
 - 👋 Hi, I’m José Carlos.
-- 👀 I’m interested in the Linux and his OS system administration world.
-- 🌱 I’m currently learning new Web front-end technologies.
-- 💞️ I’m looking to collaborate on OS administration projects.
-- 📫 How to reach me: ask me.
+- 👀 I’m interested in the Linux and its OS system administration troubleshooting.
+- 🌱 I’m currently learning new Web front-end technologies and some CMS development, like Drupal modules.
+- 💞️ I’m looking to collaborate on Linux infrastructure and administration projects.
 
 <!---
 rusejo/rusejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
